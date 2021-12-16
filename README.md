@@ -15,6 +15,8 @@ Database
 ---
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 </div>
-
-[![GitHub 통계](https://github-readme-stats.vercel.app/api ?username=HuiYeong )](https://github.com/HuiYeong/github-readme-stats) [![Solved.ac
+                  
+                      
+                   
+![HuiYeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuiYeong&theme=buefy&show_icons=true) [![GitHub 통계](https://github-readme-stats.vercel.app/api ?username=HuiYeong )](https://github.com/HuiYeong/github-readme-stats) [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=huiyeong)](https://solved.ac/huiyeong)
