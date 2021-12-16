@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=HuiYeong&fontSize=90)
 
 <div align="center">
+  
 Language
 ---
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -15,5 +16,5 @@ Database
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 </div>
 
-[![ HuiYeong 의 GitHub 통계](https://github-readme-stats.vercel.app/api ?username=HuiYeong )](https://github.com/HuiYeong/github-readme-stats) [![Solved.ac
+[![GitHub 통계](https://github-readme-stats.vercel.app/api ?username=HuiYeong )](https://github.com/HuiYeong/github-readme-stats) [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=huiyeong)](https://solved.ac/huiyeong)
