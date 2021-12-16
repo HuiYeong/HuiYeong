@@ -18,5 +18,5 @@ Database
                   
                       
                    
-![HuiYeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuiYeong&theme=buefy&show_icons=true) [![GitHub 통계](https://github-readme-stats.vercel.app/api ?username=HuiYeong )](https://github.com/HuiYeong/github-readme-stats) [![Solved.ac
+![HuiYeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuiYeong&theme=buefy&show_icons=true) [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=huiyeong)](https://solved.ac/huiyeong)
